@@ -1,6 +1,5 @@
-# Regan Setter
-# Student ID 3505894
-# Program 4 - Functions
+# Regan 
+# Program - Functions
 # February 8th, 2021
 
 # A program written in Python that solves elementary geometry questions
